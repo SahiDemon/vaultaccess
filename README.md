@@ -18,7 +18,7 @@ VaultAccess is a modern security dashboard that provides comprehensive access co
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/vaultaccess.git
+git clone [https://github.com/sahidemon/vaultaccess.git](https://github.com/SahiDemon/vaultaccess)
 cd vaultaccess
 ```
 
